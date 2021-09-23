@@ -1,0 +1,14 @@
+{
+  "name": "csvperformance",
+  "version": "1.0.0",
+  "description": "Benchmark CSV parser",
+  "main": "index.js",
+  "author": "Xin Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^5.5.3",
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "papaparse": "^5.3.1"
+  }
+}
